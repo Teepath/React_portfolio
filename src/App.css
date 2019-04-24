@@ -1,0 +1,124 @@
+.header-color{
+  background: #e65c00;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F9D423, #e65c00);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F9D423, #e65c00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.landing-page{
+  background: #e65c00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F9D423, #e65c00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F9D423, #e65c00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+position: fixed;
+top:0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+.project-grid{
+  display:flex;
+  width: 100%;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.img-avatar{
+  width: 250px;
+  height: 200px;
+  border-radius: 50%;
+  padding-top: 4rem;
+}
+.aboutme{
+  width: 70%;
+  font-size: 20px;
+  margin: auto;
+  
+}
+
+.banner-line{
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.banner-line h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.banner-line hr{
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-line p{
+  font-size: 20px;
+  color: #ffff;
+  padding: 1rem;
+}
+
+.social-link{
+  font-size:4rem;
+  color: #fff;
+  padding: 8px;
+}
+
+.contact-body{
+  margin: auto;
+  justify-content: center;
+  position: fixed;
+  padding-top: 2em;
+  width: 100%;
+  height: 100%;
+}
+
+.contact-grid{
+  text-align: center;
+  justify-content: center;
+  background-color: #fff;
+  margin-bottom: 20px;
+  height: 550px;
+  margin: auto;
+  width: 80%;
+}
+
+.contact-grid h2{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+
+
+.contact-grid hr{
+  
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i{
+  font-size: 66px;
+  padding-right: 3rem;
+}
+
+.col-right-side{
+  background: #27221F;
+  color: white;
+  padding-left: 35px;
+}
+
+.col-right-side h3{
+  padding-top: 30px;
+}
+
+.col-left{
+  margin: 0 auto;
+  text-align: center;
+}
