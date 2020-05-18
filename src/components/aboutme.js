@@ -9,8 +9,7 @@ class AboutMe extends Component {
                 <Grid>
                     <Cell col={12}>
                     <h1> AboutMe</h1>
-                <p> I considered myself to be self-motivated and enthusiastic for technical and administrative knowledge, vision-driven and excellent skills in interpersonal relationship, articulate, analytical and problem solving skills. I presently open to work onsite or remotely on any software projects expecially
-                     those can challenge me to learn new skills that can help to deep my skills.</p>
+                <p>Motivated Software Engineer seeking employment as part of a dynamic software development team. Focused and detail-oriented, problem-solving and talented for developing innovative solutions to unusual and difficult problems. Experienced in object-oriented programming. Fast to learn and able to master new technologies with proven success working in both a team and self-directed setting. </p>
                     </Cell>
                 </Grid>
                
