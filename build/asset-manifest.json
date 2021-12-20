@@ -1,15 +1,16 @@
 {
-  "main.css": "/static/css/main.4d8a1ed3.chunk.css",
-  "main.js": "/static/js/main.44cf76f1.chunk.js",
-  "main.js.map": "/static/js/main.44cf76f1.chunk.js.map",
+  "main.css": "/static/css/main.66c0b02c.chunk.css",
+  "main.js": "/static/js/main.5d9f9aa9.chunk.js",
+  "main.js.map": "/static/js/main.5d9f9aa9.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
   "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
-  "static/css/2.87b7542f.chunk.css": "/static/css/2.87b7542f.chunk.css",
-  "static/js/2.09eba234.chunk.js": "/static/js/2.09eba234.chunk.js",
-  "static/js/2.09eba234.chunk.js.map": "/static/js/2.09eba234.chunk.js.map",
+  "static/css/2.476b8dba.chunk.css": "/static/css/2.476b8dba.chunk.css",
+  "static/js/2.15e924af.chunk.js": "/static/js/2.15e924af.chunk.js",
+  "static/js/2.15e924af.chunk.js.map": "/static/js/2.15e924af.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.bef39cc46295dedae415cdca76c69aa7.js": "/precache-manifest.bef39cc46295dedae415cdca76c69aa7.js",
+  "precache-manifest.fedcf1a6d554fb412ecaf02fa58336a0.js": "/precache-manifest.fedcf1a6d554fb412ecaf02fa58336a0.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/2.87b7542f.chunk.css.map": "/static/css/2.87b7542f.chunk.css.map",
-  "static/css/main.4d8a1ed3.chunk.css.map": "/static/css/main.4d8a1ed3.chunk.css.map"
+  "static/css/2.476b8dba.chunk.css.map": "/static/css/2.476b8dba.chunk.css.map",
+  "static/css/main.66c0b02c.chunk.css.map": "/static/css/main.66c0b02c.chunk.css.map",
+  "static/media/slack_profile_tunde.jpg": "/static/media/slack_profile_tunde.27b58a8f.jpg"
 }

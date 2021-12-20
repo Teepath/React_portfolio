@@ -10,14 +10,14 @@ class LandinPage extends Component {
               <Grid className="landing-page"> 
                   <Cell col={12}>
                   <div> 
-                  <img src="https://i.pinimg.com/236x/a7/0e/16/a70e1675c7bc001f1578aa76bb0a7819--mature-old-old-person.jpg" 
+                  <img src={require("../assets/slack_profile_tunde.jpg")} 
                   className="img-avatar" alt="my-avatar"/>
                   <h2 style={{ fontSize: "30px", fontFamily:"Anton"}}> Tunde Adebanjo </h2>
                   </div>
                   <div className="banner-line"> 
                       <h1>Full Stack Developer</h1>
                       <hr/>
-                      <p> HTML | CSS | Javascript | React | Angular | Nodejs | Express | MongoDB </p>
+                      <p> HTML | CSS | Javascript | React | React Native | Firebase | Angular | Nodejs | Express | MongoDB </p>
                      <div className="social-link">
                         <a href="https://teepath.github.com" rel="noopener noreferrer" target="_blank">
                         <i className="fa fa-github-square" aria-hidden="true" /> </a>      
