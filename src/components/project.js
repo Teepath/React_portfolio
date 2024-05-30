@@ -22,12 +22,12 @@ class Project extends Component {
                     background:
                                 ''
                         }}>
-                    <img src={require("../assets/Logo.png") } height="30" width="20"/>
-                        Bossbus Web App</CardTitle>
-                    <CardText>  React, Redux, Firebase </CardText>
+                    <img src={require("../assets/Logo.svg") } height="30" width="20"/>
+                        Blogpia App</CardTitle>
+                    <CardText>  React Nextjs </CardText>
                     <CardActions border>
-                    <a href="ttps://github.com/Teepath/screemApp" target="_blank" rel="noopener noreferrer nofollow"><Button colored>Github</Button></a>
-                        <a href="https://app.bossbusworld.com/" target="_blank" rel="noopener noreferrer nofollow"><Button colored> Live Demo</Button></a>
+                    <a href="https://github.com/Teepath/Blogpia.git" target="_blank" rel="noopener noreferrer nofollow"><Button colored>Github</Button></a>
+                        <a href="https://blogpia-teepaths-projects.vercel.app/" target="_blank" rel="noopener noreferrer nofollow"><Button colored> Live Demo</Button></a>
                     </CardActions>
                     <CardMenu styele={{color: '#fff'}}>
                         <IconButton name="share" />
@@ -39,13 +39,13 @@ class Project extends Component {
                     background:
                                 'url()'
                         }}>
-                             <img src={require("../assets/Logo.png") } height="20" width="20"/>
-                            Bossbus Dashboard</CardTitle>
-                    <CardText> React, Redux and Firebase</CardText>
+                             <img src={require("../assets/favicon.png") } height="20" width="20"/>
+                            Rising Social App</CardTitle>
+                    <CardText> React, Redux, Mongo and Nodejs</CardText>
                     <CardActions border>
 
-                    <a href="https://github.com/Teepath/BookStoreApp" target="_blank" rel="noopener noreferrer nofollow"><Button colored>Github</Button></a>
-                        <a href="https://dashboard.bossbusworld.com/login" target="_blank" rel="noopener noreferrer nofollow"><Button colored> Live Demo</Button></a>
+                    <a href="#" target="_blank" rel="noopener noreferrer nofollow"><Button colored>Github</Button></a>
+                        <a href="https://risin.org/" target="_blank" rel="noopener noreferrer nofollow"><Button colored> Live Demo</Button></a>
                         
                        
                     </CardActions>
@@ -77,11 +77,11 @@ class Project extends Component {
                     background:
                                     'url()'
                             }}>
-                                 <img src={require("../assets/superbi.png") } height="20" width="20"/>SuperBi Dashboard</CardTitle>
-                    <CardText>  React, Redux </CardText>
+                                 <img src={require("../assets/superbi.png") } height="20" width="20"/>SuperBi Real Estate</CardTitle>
+                    <CardText>  React, Redux. Nodejs and Mongodb </CardText>
                     <CardActions border>
-                    <a href="" target="_blank" rel="noopener noreferrer nofollow"><Button colored>Github</Button></a>
-                        <a href="https://superbi.web.app/login" target="_blank" rel="noopener noreferrer nofollow"><Button colored> Live Demo</Button></a>
+                    <a href="#" target="_blank" rel="noopener noreferrer nofollow"><Button colored>Github</Button></a>
+                        <a href="https://real-estate-knmh.vercel.app/" target="_blank" rel="noopener noreferrer nofollow"><Button colored> Live Demo</Button></a>
                      
                        
                     </CardActions>
